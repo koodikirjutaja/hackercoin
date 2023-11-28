@@ -1,6 +1,6 @@
 {
   "name": "Hacker Coin",
   "symbol": "$HCKR"
-  "uri": "https://raw.githubusercontent.com/koodikirjutaja/hackercoin/main/metadata.json"
+  "description": "Hackers3 tokens"
   "image": "https://raw.githubusercontent.com/koodikirjutaja/hackercoin/main/logo.png"
 }
